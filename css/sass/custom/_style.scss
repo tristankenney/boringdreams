@@ -122,6 +122,10 @@ main.container, main.content > .container{
         @extend .a-hover;
     }
 
+    caption a {
+        color: #0088cc;
+    }
+
     div{
         line-height: 1.7em;
         margin-top: 1.2em;

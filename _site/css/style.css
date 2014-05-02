@@ -1785,6 +1785,8 @@ main.container, main.content > .container {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 2em;
   margin-top: 0.2em; }
+.entries caption a {
+  color: #0088cc; }
 .entries div {
   line-height: 1.7em;
   margin-top: 1.2em; }
