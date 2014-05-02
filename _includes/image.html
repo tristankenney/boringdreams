@@ -1,4 +1,6 @@
 <table class="image">
 <caption align="bottom">{{ include.description }} by <a href="http://twitter.com/{{ include.twitter }}">{{ include.author }}</a></caption>
-<tr><td><img src="{{ include.url }}" alt="{{ include.description }}"/></td></tr>
+<tr><td>
+{% image blog {{ include.img }} alt="{{ include.description }}" %}
+<img src="{{ include.url }}" /></td></tr>
 </table>
