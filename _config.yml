@@ -11,3 +11,7 @@ image:
     blog:
       width: 694
       height: 500
+    blog_portrait:
+      width: 500
+      height: 694
+

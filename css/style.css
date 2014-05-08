@@ -1741,13 +1741,13 @@ main.container, main.content > .container {
 .center-txt, .content h1, .content h3, .entries, .pages, .home-icon, .post h5, .post h2, footer .container {
   text-align: center; }
 
-.a-hover, .entries h3, .entries a, .home-icon a {
+.a-hover, .entries h3, .entries a, .home-icon a, .post a {
   color: #333333;
   -webkit-transition: 0.3s linear;
   -moz-transition: 0.3s linear;
   -o-transition: 0.3s linear;
   transition: 0.3s linear; }
-.a-hover:hover, .entries h3:hover, .entries a:hover, .home-icon a:hover {
+.a-hover:hover, .entries h3:hover, .entries a:hover, .home-icon a:hover, .post a:hover {
   color: #333333;
   text-decoration: none;
   opacity: 0.5;
@@ -1790,6 +1790,11 @@ main.container, main.content > .container {
 .entries div {
   line-height: 1.7em;
   margin-top: 1.2em; }
+.entries table.image {
+  width: 100%; }
+.entries table.image td {
+  width: 100%;
+  text-align: center; }
 
 .pages {
   list-style: none; }
@@ -1823,6 +1828,11 @@ main.container, main.content > .container {
 .post section {
   font-family: 'Noto Serif';
   line-height: 1.9em; }
+.post table.image {
+  width: 100%; }
+.post table.image td {
+  width: 100%;
+  text-align: center; }
 
 footer .container {
   font-family: 'Noto Serif';
