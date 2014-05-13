@@ -5,7 +5,7 @@ title: Nappies
 
 I had a baby.
 
-When you habe a baby, there is a service you can get where they will drop off clean nappies, and pick up the dirty ones.
+When you have a baby, there is a service you can get where they will drop off clean nappies, and pick up the dirty ones.
 
 I organised it for us, and thought "<a href="https://twitter.com/YouSaySam">Sam</a> and Andrew<sup>1</sup> have babies too".
 
