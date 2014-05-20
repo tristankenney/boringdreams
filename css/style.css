@@ -1770,6 +1770,12 @@ main.container, main.content > .container {
   background-color: black;
   height: 1em; }
 
+.rss-feed {
+  margin: 1em;
+  float: right; }
+.rss-feed img {
+  height: 32px; }
+
 .entries {
   list-style: none;
   font-family: 'Noto Serif';

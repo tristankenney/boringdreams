@@ -89,6 +89,15 @@ main.container, main.content > .container{
     height: 1em;
 }
 
+.rss-feed {
+    margin: 1em;
+    float: right;
+
+    img {
+        height: 32px;
+    }
+}
+
 
 // 3. Entries
 // --------------------------------------------------
